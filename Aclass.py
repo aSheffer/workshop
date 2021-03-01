@@ -12,7 +12,4 @@ class A():
 		print("a =", self.a)
 
 	def print_branch(self):
-		print("On branch SDN")
-		
-	def print_branch_auth(self):
-		print("On branch auth")
+		print("On branch local main")
