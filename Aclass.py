@@ -1,5 +1,5 @@
 class A():
-	def __init__(self, a='a'):
+	def __init__(self, a='b'):
 		self.a = a
 
 	def get_a(self):
